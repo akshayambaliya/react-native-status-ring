@@ -1,4 +1,4 @@
-# react-native-status-view
+# react-native-status-ring
 
 A lightweight and customizable React Native component for displaying a circular image with status indicator arcs (like WhatsApp/Instagram stories). Each arc can represent a "seen" or "unseen" status using solid colors or gradients.
 
@@ -27,7 +27,7 @@ A lightweight and customizable React Native component for displaying a circular 
 Install the package along with its peer dependency `react-native-svg`:
 
 ```bash
-npm install react-native-status-view react-native-svg
+npm install react-native-status-ring react-native-svg
 ```
 
 Then, use the component in your project:
@@ -35,7 +35,7 @@ Then, use the component in your project:
 ```tsx
 import React from "react";
 import { View } from "react-native";
-import Status from "react-native-status-view";
+import Status from "react-native-status-ring";
 
 export default function App() {
   return (

@@ -1,5 +1,5 @@
 {
-  "name": "react-native-status-view",
+  "name": "react-native-status-ring",
   "version": "1.0.0",
   "description": "React Native component for circular image status view with seen/unseen arcs",
   "main": "dist/index.js",
