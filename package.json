@@ -1,0 +1,32 @@
+{
+  "name": "react-native-status-view",
+  "version": "1.0.0",
+  "description": "React Native component for circular image status view with seen/unseen arcs",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/akshayambaliya/react-native-status-view.git"
+  },
+  "keywords": [
+    "react-native",
+    "react-native-circular-progress",
+    "react-native-instagram-status",
+    "react-native-status-view",
+    "component"
+  ],
+  "author": "Akshay Ambaliya",
+  "homepage": "https://github.com/akshayambaliya/react-native-status-view.git",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  },
+  "peerDependencies": {
+    "react": "19.0.0",
+    "react-native": "0.79.2",
+    "react-native-svg": "15.11.2"
+  }
+}
