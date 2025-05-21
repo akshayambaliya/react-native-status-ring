@@ -3,10 +3,10 @@
 A lightweight and customizable React Native component for displaying a circular image with status indicator arcs (like WhatsApp/Instagram stories). Each arc can represent a "seen" or "unseen" status using solid colors or gradients.
 
 <p align="center">
-  <img src="https://github.com/akshayambaliya/images/blob/89bdf4baea1f3cfb682cad27db5d863e6b9439f9/IMG_5380.PNG" width="100" />
-  <img src="https://github.com/akshayambaliya/images/blob/89bdf4baea1f3cfb682cad27db5d863e6b9439f9/IMG_5381.PNG" width="100" />
-  <img src="https://github.com/akshayambaliya/images/blob/89bdf4baea1f3cfb682cad27db5d863e6b9439f9/IMG_5382.PNG" width="100" />
-  <img src="https://github.com/akshayambaliya/images/blob/89bdf4baea1f3cfb682cad27db5d863e6b9439f9/IMG_5383.PNG" width="100" />
+  <img src="https://github.com/akshayambaliya/images/blob/89bdf4baea1f3cfb682cad27db5d863e6b9439f9/IMG_5380.PNG" width="200" />
+  <img src="https://github.com/akshayambaliya/images/blob/89bdf4baea1f3cfb682cad27db5d863e6b9439f9/IMG_5381.PNG" width="200" />
+  <img src="https://github.com/akshayambaliya/images/blob/89bdf4baea1f3cfb682cad27db5d863e6b9439f9/IMG_5382.PNG" width="200" />
+  <img src="https://github.com/akshayambaliya/images/blob/89bdf4baea1f3cfb682cad27db5d863e6b9439f9/IMG_5383.PNG" width="200" />
 </p>
 
 ---
