@@ -1,6 +1,6 @@
 {
   "name": "react-native-status-ring",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React Native component for circular image status view with seen/unseen arcs",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/akshayambaliya/react-native-status-view.git"
+    "url": "https://github.com/akshayambaliya/react-native-status-ring.git"
   },
   "keywords": [
     "react-native",
@@ -19,7 +19,7 @@
     "component"
   ],
   "author": "Akshay Ambaliya",
-  "homepage": "https://github.com/akshayambaliya/react-native-status-view.git",
+  "homepage": "https://github.com/akshayambaliya/react-native-status-ring.git",
   "license": "MIT",
   "devDependencies": {
     "typescript": "^5.8.3"

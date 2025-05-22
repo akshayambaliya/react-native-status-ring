@@ -1,5 +1,6 @@
 src/
 node_modules/
+index.ts
 tsconfig.json
 README.md
 *.log

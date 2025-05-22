@@ -35,7 +35,7 @@ Then, use the component in your project:
 ```tsx
 import React from "react";
 import { View } from "react-native";
-import Status from "react-native-status-ring";
+import { Status } from "react-native-status-ring";
 
 export default function App() {
   return (
@@ -55,6 +55,8 @@ export default function App() {
   );
 }
 ```
+
+---
 
 ## 🧩 Props
 
